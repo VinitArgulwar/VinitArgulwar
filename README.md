@@ -50,7 +50,7 @@ Full-stack listing platform with Passport.js authentication, session-based prote
 Full-stack paper trading platform inspired by Zerodha, simulating real-world stock trading workflows without real money.
 `TypeScript`
 
-> 💡 *No public repo found for the Video Conferencing project — replace the `#` above with its link once uploaded.*
+
 
 <br/>
 
