@@ -34,7 +34,7 @@ phone: +91-8055806009
 
 ## 🚀 Featured Projects
 
-### 🔐 [SecureShare — Zero Trust File Sharing Platform](#) · 2026
+### 🔐 [SecureShare — Zero Trust File Sharing Platform](https://github.com/VinitArgulwar/SecureShare-ZeroTrust) · 2026
 Full-stack secure file sharing platform with JWT auth, email verification, role-based access control, and configurable expiry/download limits on shared files. Hardened with Helmet, CORS, rate limiting, and input validation.
 `React.js` `Node.js` `Express.js` `MongoDB` `Cloudinary` `JWT` `Nodemailer`
 
@@ -42,11 +42,15 @@ Full-stack secure file sharing platform with JWT auth, email verification, role-
 Real-time video conferencing app with unique room IDs, WebRTC + Socket.IO signaling for audio/video, screen sharing, live chat, and participant/media controls.
 `React.js` `Node.js` `Express.js` `Socket.IO` `WebRTC`
 
-### 🏡 [StayV — Accommodation Listing Platform](#) · 2026
+### 🏡 [StayV — Accommodation Listing Platform](https://github.com/VinitArgulwar/StayV) · 2026
 Full-stack listing platform with Passport.js authentication, session-based protected routes, Joi-validated CRUD for listings, and server-side rendering with flash messaging.
 `Node.js` `Express.js` `MongoDB` `Mongoose` `EJS` `Passport.js` `Joi`
 
-> 💡 *Add the GitHub repo links above — replace the `#` in each project heading.*
+### 📈 [TradeX — Paper Trading Platform](https://github.com/VinitArgulwar/TradeX) · 2026
+Full-stack paper trading platform inspired by Zerodha, simulating real-world stock trading workflows without real money.
+`TypeScript`
+
+> 💡 *No public repo found for the Video Conferencing project — replace the `#` above with its link once uploaded.*
 
 <br/>
 
@@ -97,33 +101,14 @@ Full-stack listing platform with Passport.js authentication, session-based prote
 </div>
 
 <div align="center">
-<img src="https://leetcard.jacoblin.cool/VinitArgulwar7?theme=light&font=baloo2&ext=heatmap" alt="LeetCode Stats" width="48%"/>
+<img src="https://leetcard.jacoblin.cool/VinitArgulwar7?theme=light&font=baloo2" alt="LeetCode Stats" width="48%"/>
 </div>
-
-<br/>
 
 ## 🎓 Achievements
 
 - 🥇 **JEE Advanced**: AIR 17122 &nbsp;|&nbsp; **JEE Mains**: AIR 16205
 - 🏅 Global Rank **1372** in CodeChef Starters 205
 - 📈 700+ problems solved across LeetCode, Codeforces & CodeChef combined
-
-<br/>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=VinitArgulwar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VinitArgulwar&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinitArgulwar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VinitArgulwar&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="90%"/>
-</div>
 
 <br/>
 
