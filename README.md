@@ -24,7 +24,7 @@ name: Vinit Argulwar
 role: Aspiring SDE / Full-Stack Developer
 education: B.Tech CSE, National Institute of Technology Raipur (2028) — CGPA 8.50/10
 location: Nanded, Maharashtra, India
-focus: Data Structures & Algorithms, Full-Stack Web Development, System Design
+focus: Data Structures & Algorithms, Full-Stack Web Development
 core_cs: OOP, Operating Systems, Computer Networks
 contact: VinitArgulwar@gmail.com
 phone: +91-8055806009
@@ -104,11 +104,6 @@ Full-stack paper trading platform inspired by Zerodha, simulating real-world sto
 <img src="https://leetcard.jacoblin.cool/VinitArgulwar7?theme=light&font=baloo2" alt="LeetCode Stats" width="48%"/>
 </div>
 
-## 🎓 Achievements
-
-- 🥇 **JEE Advanced**: AIR 17122 &nbsp;|&nbsp; **JEE Mains**: AIR 16205
-- 🏅 Global Rank **1372** in CodeChef Starters 205
-- 📈 700+ problems solved across LeetCode, Codeforces & CodeChef combined
 
 <br/>
 
