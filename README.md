@@ -27,7 +27,6 @@ location: Nanded, Maharashtra, India
 focus: Data Structures & Algorithms, Full-Stack Web Development
 core_cs: OOP, Operating Systems, Computer Networks
 contact: VinitArgulwar@gmail.com
-phone: +91-8055806009
 ```
 
 <br/>
