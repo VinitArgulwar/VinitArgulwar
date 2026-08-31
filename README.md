@@ -37,9 +37,6 @@ contact: VinitArgulwar@gmail.com
 Full-stack secure file sharing platform with JWT auth, email verification, role-based access control, and configurable expiry/download limits on shared files. Hardened with Helmet, CORS, rate limiting, and input validation.
 `React.js` `Node.js` `Express.js` `MongoDB` `Cloudinary` `JWT` `Nodemailer`
 
-### 🎥 [Video Conferencing Platform (Zoom-inspired)](#) · 2025
-Real-time video conferencing app with unique room IDs, WebRTC + Socket.IO signaling for audio/video, screen sharing, live chat, and participant/media controls.
-`React.js` `Node.js` `Express.js` `Socket.IO` `WebRTC`
 
 ### 🏡 [StayV — Accommodation Listing Platform](https://github.com/VinitArgulwar/StayV) · 2026
 Full-stack listing platform with Passport.js authentication, session-based protected routes, Joi-validated CRUD for listings, and server-side rendering with flash messaging.
