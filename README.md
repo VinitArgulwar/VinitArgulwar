@@ -24,14 +24,17 @@ name: Vinit Argulwar
 role: Aspiring SDE / Full-Stack Developer
 education: B.Tech CSE, National Institute of Technology Raipur (2028) — CGPA 8.50/10
 location: Nanded, Maharashtra, India
-focus: Data Structures & Algorithms, Full-Stack Web Development
-core_cs: OOP, Operating Systems, Computer Networks
+focus: Data Structures & Algorithms, Full-Stack Web Development,System Design
+core_cs: OOP, Operating Systems, Computer Networks,DBMS
 contact: VinitArgulwar@gmail.com
 ```
 
 <br/>
 
 ## 🚀 Featured Projects
+### 🎥 [Video Conferencing Platform (Zoom-inspired)](https://github.com/VinitArgulwar/ApexRoom) · 2026
+Real-time video conferencing app with unique room IDs, WebRTC + Socket.IO signaling for audio/video, screen sharing, live chat, and participant/media controls.
+`React.js` `Node.js` `Express.js` `Socket.IO` `WebRTC`
 
 ### 🔐 [SecureShare — Zero Trust File Sharing Platform](https://github.com/VinitArgulwar/SecureShare-ZeroTrust) · 2026
 Full-stack secure file sharing platform with JWT auth, email verification, role-based access control, and configurable expiry/download limits on shared files. Hardened with Helmet, CORS, rate limiting, and input validation.
@@ -65,6 +68,7 @@ Full-stack paper trading platform inspired by Zerodha, simulating real-world sto
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
+
 **Backend & Database**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -87,11 +91,11 @@ Full-stack paper trading platform inspired by Zerodha, simulating real-world sto
 
 | Platform | Handle | Stats |
 |:---:|:---:|:---:|
-| 🟧 **LeetCode** | [VinitArgulwar7](https://leetcode.com/u/VinitArgulwar7/) | 450+ solved · Max Rating 1664 |
-| 🔵 **Codeforces** | [Vn7](https://codeforces.com/profile/Vn7) | Rating 1072 · 188+ solved |
-| 🟤 **CodeChef** | [vinit2507](https://www.codechef.com/users/vinit2507) (2★) | Max Rating 1518 · Global Rank 1372 (Starters 205) |
+| 🟧 **LeetCode** | [VinitArgulwar7](https://leetcode.com/u/VinitArgulwar7/) | 550+ solved · Max Rating 1664 |
+| 🔵 **Codeforces** | [Vn7](https://codeforces.com/profile/Vn7) | Rating 1096 · 250+ solved |
+| 🟤 **CodeChef** | [vinit2507](https://www.codechef.com/users/vinit2507) (2★) | Max Rating 1554 · Global Rank 1372 (Starters 205) |
 
-**700+ problems solved** across competitive programming platforms
+**850+ problems solved** across competitive programming platforms
 
 </div>
 
