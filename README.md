@@ -11,7 +11,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=2C5364&center=true&vCenter=true&width=600&lines=B.Tech+CSE+%40+NIT+Raipur+(2028);Full-Stack+Developer+%7C+MERN+%2B+WebRTC;700%2B+Problems+Solved+Across+CP+Platforms;Open+to+SDE+Internships+%26+Collaboration" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=2C5364&center=true&vCenter=true&width=600&lines=B.Tech+CSE+%40+NIT+Raipur+(2028);Full-Stack+Developer+%7C+MERN+%2B+WebRTC;900%2B+Problems+Solved+Across+CP+Platforms;Open+to+SDE+Internships+%26+Collaboration" alt="Typing SVG" />
 
 </div>
 
